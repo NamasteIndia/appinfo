@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+      "filename": "Kinemaster_v7.8.6.apk",
+      "version": "7.8.6",
+      "release_date": "2024-05-20",
+      "notes": "Latest stable release"
+    },
+    {
+      "filename": "Kinemaster_v7.8.5.apk",
+      "version": "7.8.5",
+      "release_date": "2024-04-15",
+      "notes": "Previous stable release"
+    }
+  ]
+}
