@@ -1,16 +1,11 @@
 {
+  "icon": "https://play-lh.googleusercontent.com/r8RfJ-QWiO16qGSMdHkFaSzkls96Qcn9Cm4F-RSaKl0_kbMhc6cXKMuOEcCwjjoaIQ=w480-h960-rw",
   "response": [
     {
       "filename": "pdfreader_1.9.0.apk",
       "version": "1.9.0",
-      "release_date": "2024-09-15",
+      "release_date": "2024-05-20",
       "notes": "Latest stable release"
-    },
-    {
-      "filename": "All.PDF.Reader.1.9.0.apk",
-      "version": "1.9.0",
-      "release_date": "2024-09-15",
-      "notes": "Previous stable release"
     }
   ]
 }
