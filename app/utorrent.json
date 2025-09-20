@@ -5,7 +5,12 @@
       "filename": "utorrent_8.2.51.apk",
       "version": "8.2.51",
       "release_date": "2025-09-17",
-      "notes": "Latest stable release"
+      "notes": "Latest stable release",
+      "changelog": [
+        "Removed Analytics",
+        "APP size reduced",
+        "UI speed improved"
+      ]
     }
   ]
 }
