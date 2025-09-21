@@ -1,1 +1,16 @@
-
+{
+  "icon": "https://play-lh.googleusercontent.com/7ynvVIRdhJNAngCg_GI7i8TtH8BqkJYmffeUHsG-mJOdzt1XLvGmbsKuc5Q1SInBjDKN=w480-h960-rw",
+  "response": [
+    {
+      "filename": "spotify_9.0.82.446.apk",
+      "version": "9.0.82.446",
+      "release_date": "2025-09-21",
+      "notes": "Latest stable release",
+      "changelog": [
+        "Removed Analytics",
+        "APP size reduced",
+        "UI speed improved"
+      ]
+    }
+  ]
+}
