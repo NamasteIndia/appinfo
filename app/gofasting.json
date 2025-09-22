@@ -1,0 +1,17 @@
+{
+  "icon": "https://play-lh.googleusercontent.com/vjs55iBVWQpgghAGgV0D2tgKSpHHiE0e9opL6trllWsizec2cgzZF8fylzAkTliVBe8=w240-h480-rw",
+  "response": [
+    {
+      "filename": "gofasting_1.03.43.0911.apk",
+      "version": "1.03.43.0911",
+      "release_date": "2025-09-22",
+      "notes": "Latest stable release",
+      "changelog": [
+        "Removed Analytics",
+        "APP size reduced",
+        "UI speed improved",
+        "Misc bugs fixed"
+      ]
+    }
+  ]
+}
