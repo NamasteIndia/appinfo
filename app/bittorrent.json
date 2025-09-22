@@ -3,6 +3,7 @@
   "response": [
     {
       "filename": "bittorrent_8.2.52.apk",
+      "id": "com.bittorrent.client",
       "version": "8.2.52",
       "release_date": "2025-09-18",
       "notes": "Latest stable release",
