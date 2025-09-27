@@ -2,6 +2,18 @@
   "icon": "https://play-lh.googleusercontent.com/r8RfJ-QWiO16qGSMdHkFaSzkls96Qcn9Cm4F-RSaKl0_kbMhc6cXKMuOEcCwjjoaIQ=w480-h960-rw",
   "response": [
     {
+      "filename": "pdfreader_1.9.4.apk",
+      "version": "1.9.4",
+      "release_date": "2025-09-27",
+      "notes": "Latest stable release",
+      "changelog": [
+        "Removed Analytics",
+        "APP size reduced",
+        "UI speed improved",
+        "Optimized app dashboard"
+      ]
+    },
+    {
       "filename": "pdfreader_1.9.2.apk",
       "version": "1.9.2",
       "release_date": "2025-09-16",
