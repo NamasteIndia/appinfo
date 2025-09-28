@@ -1,0 +1,19 @@
+{
+  "icon": "https://play-lh.googleusercontent.com/VtP05VLAW1hdA8fyr5RGktM5LvuyUj4YagaAnfi9c_t3oyVv0iTAaZ1-6oC4za-bBEc=w480-h960-rw",
+  "response": [
+    {
+      "filename": "truecaller_v15.32.5.apk",
+      "id": "com.truecaller",
+      "version": "15.32.5",
+      "release_date": "2025-09-28",
+      "notes": "Latest stable release",
+      "changelog": [
+        "Analytics Removed",
+        "APP size reduced",
+        "Junk codes removed",
+        "Faster app loading",
+        "Credit: AKMODS"
+      ]
+    }
+  ]
+}
