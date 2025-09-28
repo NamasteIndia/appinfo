@@ -1,0 +1,19 @@
+{
+  "icon": "https://play-lh.googleusercontent.com/hferjPeJ9_aWi_r5t8L0qOAwU4ZWAyduYmRkYodJOylRKwOxPI_117GzVSkAnhaNOw=w480-h960-rw",
+  "response": [
+    {
+      "filename": "protonvpn_5.13.22.0.apk",
+      "id": "ch.protonvpn.android",
+      "version": "5.13.22.0",
+      "release_date": "2025-09-28",
+      "notes": "Latest stable release",
+      "changelog": [
+        "Analytics Removed",
+        "APP size reduced",
+        "Junk codes removed",
+        "Faster app loading",
+        "Cooldown Removed"
+      ]
+    }
+  ]
+}
