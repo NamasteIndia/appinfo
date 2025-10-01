@@ -5,6 +5,7 @@
       "filename": "spotify_9.0.82.446.apk",
       "version": "9.0.82.446",
       "release_date": "2025-09-21",
+      "architecture": "64bit",
       "notes": "Latest stable release",
       "changelog": [
         "Removed Analytics",
