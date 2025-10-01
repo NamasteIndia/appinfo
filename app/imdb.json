@@ -5,6 +5,7 @@
       "filename": "imdb.v.9.2.1.109210300.apk",
       "version": "9.2.1.109210300",
       "release_date": "2025-09-21",
+      "architecture": "64bit",
       "notes": "Latest stable release",
       "changelog": [
         "Removed Analytics",
