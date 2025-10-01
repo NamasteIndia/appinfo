@@ -6,6 +6,7 @@
       "id": "peachy.bodyeditor.faceapp",
       "version": "1.171.51",
       "release_date": "2025-09-28",
+      "architecture": "64bit",
       "notes": "Latest stable release",
       "changelog": [
         "Analytics Removed",
