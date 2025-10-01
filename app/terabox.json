@@ -5,6 +5,7 @@
       "filename": "terabox_4.5.3.apk",
       "version": "4.5.3",
       "release_date": "2025-09-16",
+      "architecture": "64bit",
       "notes": "Latest stable release"
     }
   ]
