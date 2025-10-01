@@ -5,12 +5,14 @@
       "filename": "kinemaster_v7.8.3.apk",
       "version": "7.8.3",
       "release_date": "2024-05-20",
+      "architecture": "64bit",
       "notes": "Latest stable release"
     },
     {
       "filename": "kinemaster_v7.8.2.apk",
       "version": "7.8.2",
       "release_date": "2024-04-15",
+      "architecture": "64bit",
       "notes": "Previous stable release"
     }
   ]
