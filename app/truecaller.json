@@ -6,6 +6,7 @@
       "id": "com.truecaller",
       "version": "15.32.5",
       "release_date": "2025-09-28",
+      "architecture": "64bit",
       "notes": "Latest stable release",
       "changelog": [
         "Analytics Removed",
