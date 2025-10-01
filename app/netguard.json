@@ -6,6 +6,7 @@
       "id": "eu.faircode.netguard",
       "version": "2.332",
       "release_date": "2025-09-28",
+      "architecture": "universal",
       "notes": "Latest stable release",
       "changelog": [
         "Analytics Removed",
