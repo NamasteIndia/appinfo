@@ -1,0 +1,19 @@
+{
+  "icon": "https://play-lh.googleusercontent.com/PZMWnpFtmhKbVl1fm6HJS3Mru4O9_RTtz5LK1dGlFe2cLMJ4QWun1mfQO5GAJWEl8w=w480-h960-rw",
+  "response": [
+    {
+      "filename": "facetune_2.53.0.1.apk",
+      "id": "com.lightricks.facetune.free",
+      "version": "2.53.0.1",
+      "release_date": "2025-10-02",
+      "architecture": "64bit",
+      "notes": "Latest stable release",
+      "changelog": [
+        "Analytics Removed",
+        "APP size reduced",
+        "Junk codes removed",
+        "Faster app loading"
+      ]
+    }
+  ]
+}
