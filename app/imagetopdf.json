@@ -1,0 +1,19 @@
+{
+  "icon": "https://play-lh.googleusercontent.com/ugU4EidQr0dZAitKNw9zsSOw03IAo9_w1YBsyd7ZF8LY9-YX_vERhVGhqQECC5YJYQDg=w480-h960-rw",
+  "response": [
+    {
+      "filename": "imagetopdf_1.7.2.apk",
+      "id": "imagetopdf.pdfconverter.jpgtopdf.pdfeditor",
+      "version": "1.7.2",
+      "release_date": "2025-10-03",
+      "architecture": "64bit",
+      "notes": "Latest stable release",
+      "changelog": [
+        "Analytics Removed",
+        "APP size reduced",
+        "Junk codes removed",
+        "Faster app loading"
+      ]
+    }
+  ]
+}
