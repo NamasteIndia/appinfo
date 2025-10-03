@@ -1,0 +1,19 @@
+{
+  "icon": "https://play-lh.googleusercontent.com/XJ6_UDSJx-QHQreBmIro5VMRJ--42F1XY3QphSYkeSRZdAUA0o_Y-EydVdK-NZOh=w480-h960-rw",
+  "response": [
+    {
+      "filename": "remini_v3.7.1126.202516929.apk",
+      "id": "com.bigwinepot.nwdn.international",
+      "version": "3.7.1126.202516929",
+      "release_date": "2025-10-03",
+      "architecture": "64bit",
+      "notes": "Latest stable release",
+      "changelog": [
+        "Analytics Removed",
+        "APP size reduced",
+        "Junk codes removed",
+        "Faster app loading"
+         ]
+    }
+  ]
+}
