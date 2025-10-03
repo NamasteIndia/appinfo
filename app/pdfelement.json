@@ -1,0 +1,20 @@
+{
+  "icon": "https://play-lh.googleusercontent.com/AeyW3UsnmUI6z3ySnn6Ne3jrPBzJMGBa0tPk4DhyEpmrqURWMmudIgrqVdNQUNnHAg=w480-h960-rw",
+  "response": [
+    {
+      "filename": "pdfelement_6.0.1.apk",
+      "id": "com.wondershare.pdfelement",
+      "version": "6.0.1",
+      "release_date": "2025-10-03",
+      "architecture": "64bit",
+      "notes": "Latest stable release",
+      "changelog": [
+        "Analytics Removed",
+        "APP size reduced",
+        "Junk codes removed",
+        "Faster app loading",
+        "BUG: Fake AV detection"
+      ]
+    }
+  ]
+}
