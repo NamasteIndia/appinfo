@@ -1,0 +1,20 @@
+{
+  "icon": "https://play-lh.googleusercontent.com/39xbI_gFcmGEIl6JEAGhJQKv8GBjR_RFyJ6qhrFfA9CUOKZU2clSs7uo81e30zPGtg=w480-h960-rw",
+  "response": [
+    {
+      "filename": "warpplus_6.38.5.apk",
+      "id": "com.cloudflare.onedotonedotonedotone",
+      "version": "6.38.5",
+      "release_date": "2025-10-03",
+      "architecture": "64bit",
+      "notes": "Latest stable release",
+      "changelog": [
+        "Analytics Removed",
+        "APP size reduced",
+        "Junk codes removed",
+        "Faster app loading",
+        "BUG: Fake AV detection"
+      ]
+    }
+  ]
+}
