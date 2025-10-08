@@ -1,0 +1,19 @@
+{
+  "icon": "https://play-lh.googleusercontent.com/2TZOs3yHFM8mRLJHbjeCLfxhX_Kib1td6OgZMmF0PNlIE0LGwEUAWnR9vUnDLxQfK7fl=w480-h960-rw",
+  "response": [
+    {
+      "filename": "azrecorder_6.7.6.apk",
+      "id": "com.hecorat.screenrecorder.free",
+      "version": "6.7.6",
+      "release_date": "2025-10-08",
+      "architecture": "64bit",
+      "notes": "Latest stable release",
+      "changelog": [
+        "Analytics Removed",
+        "APP size reduced",
+        "Junk codes removed",
+        "Faster app loading"
+      ]
+    }
+  ]
+}
