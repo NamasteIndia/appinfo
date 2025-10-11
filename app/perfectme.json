@@ -1,0 +1,19 @@
+{
+  "icon": "https://play-lh.googleusercontent.com/FCg1FiqGOcKKtx_fvswXrJ6UdjDKuxS_cmE_KiYw87dBy68lU8BAqVcecsIAcNasBHU=w480-h960-rw",
+  "response": [
+    {
+      "filename": "perfectme_8.8.4.apk",
+      "id": "com.accordion.perfectme",
+      "version": "8.8.4",
+      "release_date": "2025-10-11",
+      "architecture": "64bit",
+      "notes": "Latest stable release",
+      "changelog": [
+        "Analytics Removed",
+        "APP size reduced",
+        "Junk codes removed",
+        "Faster app loading"
+      ]
+    }
+  ]
+}
