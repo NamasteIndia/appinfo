@@ -2,6 +2,18 @@
   "icon": "https://play-lh.googleusercontent.com/YuU5xeZhfjY8kfsxvXSabAxZ2-Quutlj8QByfDiefsOPrygokAPF9jSU74dV6d2-3g=w480-h960-rw",
   "response": [
     {
+      "filename": "utorrent_8.2.55.apk",
+      "version": "8.2.55",
+      "release_date": "2025-10-16",
+      "architecture": "64bit",
+      "notes": "Latest stable release",
+      "changelog": [
+        "Removed Analytics",
+        "APP size reduced",
+        "UI speed improved"
+      ]
+    },
+     {
       "filename": "utorrent_8.2.51.apk",
       "version": "8.2.51",
       "release_date": "2025-09-17",
