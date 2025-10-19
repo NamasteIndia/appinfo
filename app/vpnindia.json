@@ -2,6 +2,21 @@
   "icon": "https://play-lh.googleusercontent.com/fOBWkQcPZJOdR-jNfGzXmX4BbYZ5livrmrXAknIAoBT5vxdDaldtlgLYwzL-C1lHUK2C=w480-h960-rw",
   "response": [
     {
+      "filename": "vpnindia_1.6.1.apk",
+      "id": "free.vpnindia.unlimited.fast.secure.proxy.turbo",
+      "version": "1.6.1",
+      "release_date": "2025-10-19",
+      "architecture": "64bit",
+      "notes": "Latest stable release",
+      "changelog": [
+        "Analytics Removed",
+        "APP size reduced",
+        "Junk codes removed",
+        "Faster app loading",
+        "Some server sided feature might not work"
+      ]
+    },
+    {
       "filename": "vpnindia_1.6.0.apk",
       "id": "free.vpnindia.unlimited.fast.secure.proxy.turbo",
       "version": "1.6.0",
