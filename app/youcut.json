@@ -2,6 +2,20 @@
   "icon": "https://play-lh.googleusercontent.com/olhjafzzvqeXwrpmqyEsqwkXAXLuUceoSbiFFEaH4svoMDya80VdAuT_7R6Jv-scG94=w240-h480-rw",
   "response": [
     {
+      "filename": "youcut_1.693.1212.apk",
+      "version": "1.692.1211",
+      "id": "com.camerasideas.trimmer",
+      "release_date": "2025-10-26",
+      "architecture": "64bit",
+      "notes": "Latest stable release",
+      "changelog": [
+        "Removed Analytics",
+        "APP size reduced",
+        "UI speed improved",
+        "Misc bugs fixed"
+      ]
+    },
+    {
       "filename": "youcut_1.692.1211.apk",
       "version": "1.692.1211",
       "release_date": "2025-09-22",
