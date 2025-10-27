@@ -1,12 +1,12 @@
 {
-  "icon": "https://play-lh.googleusercontent.com/PK1HLcCW4TQ79hTCctdiMdfMOMDOMJBg1aBHjXillo2Iv2_yR1hcWZx2OUlBi-aqvPtI=w480-h960-rw",
+  "icon": "https://play-lh.googleusercontent.com/AQvMCu9zBxERCRRtKhuF7QDPTrnwJkr-mkXeXZajKHjhixBlBXVRqEZWjmexAUwq-rw=w480-h960-rw",
   "response": [
     {
-      "filename": "aloha_7.9.2.apk",
-      "id": "com.aloha.browser",
-      "version": "7.9.2",
+      "filename": "ime_12.1.1.apk",
+      "id": "com.iMe.android",
+      "version": "12.1.1",
       "release_date": "2025-10-27",
-      "architecture": "Universal",
+      "architecture": "Arm64",
       "notes": "Latest stable release",
       "changelog": [
         "Analytics Removed",
