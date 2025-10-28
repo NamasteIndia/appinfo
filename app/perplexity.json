@@ -1,0 +1,23 @@
+{
+  "icon": "https://play-lh.googleusercontent.com/6STp0lYx2ctvQ-JZpXA1LeAAZIlq6qN9gpy7swLPlRhmp-hfvZePcBxqwVkqN2BH1g=w480-h960-rw",
+  "response": [
+    {
+      "filename": "perplexity_2.59.0.apk",
+      "id": "ai.perplexity.app.android",
+      "version": "2.59.0",
+      "release_date": "2025-10-28",
+      "architecture": "Arm 64",
+      "notes": "Latest stable release",
+      "changelog": [
+        "Analytics Removed",
+        "APP size reduced",
+        "Junk codes removed",
+        "Faster app loading",
+        "Unlocked Enterprise MODE",
+        "All AI Chats are unlimited only when generated or used using Modded APK",
+        "Third party integrations AKA ImageBanana Etc are still untested",
+        "For support and help Message me @requestcenterr"
+      ]
+    }
+  ]
+}
