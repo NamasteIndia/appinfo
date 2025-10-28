@@ -1,0 +1,19 @@
+{
+  "icon": "https://play-lh.googleusercontent.com/PK1HLcCW4TQ79hTCctdiMdfMOMDOMJBg1aBHjXillo2Iv2_yR1hcWZx2OUlBi-aqvPtI=w480-h960-rw",
+  "response": [
+    {
+      "filename": "classic_1.2.2.zip",
+      "id": "com.aloha.browser",
+      "version": "1.2.2",
+      "release_date": "2025-10-27",
+      "architecture": "Universal",
+      "notes": "Latest stable release",
+      "changelog": [
+        "Analytics Removed",
+        "APP size reduced",
+        "Junk codes removed",
+        "Faster app loading"
+      ]
+    }
+  ]
+}
