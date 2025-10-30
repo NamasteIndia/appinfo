@@ -2,6 +2,20 @@
   "icon": "https://play-lh.googleusercontent.com/2TZOs3yHFM8mRLJHbjeCLfxhX_Kib1td6OgZMmF0PNlIE0LGwEUAWnR9vUnDLxQfK7fl=w480-h960-rw",
   "response": [
     {
+      "filename": "az_6.7.8.apk",
+      "id": "com.hecorat.screenrecorder.free",
+      "version": "6.7.8",
+      "release_date": "2025-10-30",
+      "architecture": "64bit",
+      "notes": "Latest stable release",
+      "changelog": [
+        "Analytics Removed",
+        "APP size reduced",
+        "Junk codes removed",
+        "Faster app loading"
+      ]
+    },
+    {
       "filename": "az_6.7.7.apk",
       "id": "com.hecorat.screenrecorder.free",
       "version": "6.7.7",
