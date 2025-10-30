@@ -1,0 +1,21 @@
+{
+  "icon": "https://play-lh.googleusercontent.com/ZdGYzeIyf8QMIyZEHf6ncXBzjIaswWJmq0k8_s4NtpZbYPpHFwjeRfP_04EUNIA2QHU=w480-h960-rw",
+  "response": [
+    {
+      "filename": "gpsemulator_3.11.apk",
+      "id": "com.rosteam.gpsemulator",
+      "version": "3.11",
+      "release_date": "2025-10-30",
+      "architecture": "Arm64",
+      "notes": "Latest stable release",
+      "changelog": [
+        "Analytics Removed",
+        "APP size reduced",
+        "Junk codes removed",
+        "Faster app loading",
+        "Ads Removed",
+        "Paywall Removed"
+      ]
+    }
+  ]
+}
